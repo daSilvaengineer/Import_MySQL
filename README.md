@@ -12,5 +12,5 @@ Exporta dados de um banco MySQL para arquivos Excel usando Python.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/mysql-pandas-exporter.git
+   git clone https://github.com/daSilvaengineer/import_mysql.git
    cd mysql-pandas-exporter
